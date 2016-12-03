@@ -1,2 +1,2 @@
-# Акрофобия
-The repo for the акрофобия dev team, and for anyone who wants the game
+# Acrophobia
+The repo for the acrophobia dev team, and for anyone who wants the game
