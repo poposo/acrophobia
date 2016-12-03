@@ -1,0 +1,63 @@
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\obj\Debug\Assembly-CSharp.dll
+C:\Users\Oliver\Desktop\Unity Projects\акрофобия\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия - Copy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\obj\Debug\Assembly-CSharp.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Oliver\Desktop\Productivity\Unity\Unity Projects\акрофобия\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5C46DFDE-90D2-7CF4-0099-9DED4049F356}") = "акрофобия", "Assembly-CSharp.csproj", "{5F2A92F8-809A-99C0-7C7B-62FB79FA065A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2A92F8-809A-99C0-7C7B-62FB79FA065A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2A92F8-809A-99C0-7C7B-62FB79FA065A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2A92F8-809A-99C0-7C7B-62FB79FA065A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2A92F8-809A-99C0-7C7B-62FB79FA065A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
