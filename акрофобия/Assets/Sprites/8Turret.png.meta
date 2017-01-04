@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 8c05a20b5aa5b334286804013c6562ea
-timeCreated: 1480731547
+timeCreated: 1483529391
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -46,7 +46,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 250
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
@@ -58,12 +58,12 @@ TextureImporter:
       name: TurretBarrel
       rect:
         serializedVersion: 2
-        x: 174
-        y: 225
-        width: 45
-        height: 206
+        x: 176
+        y: 226
+        width: 33
+        height: 208
       alignment: 9
-      pivot: {x: 0.44658983, y: -0.9447253}
+      pivot: {x: 0.6138398, y: -0.8271192}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

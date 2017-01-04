@@ -4,11 +4,14 @@ using System.Collections;
 public class TurretControl : MonoBehaviour {
 
 	//debug
-	public bool shoot;
+	public Vector2 direction;
+	public float mag;
+
 
 	//Trasforms
 	public Transform target;//Player
 	public Transform shootPoint; //BarrelEnd
+
 
 	//floats
 	public float coolDown = 1;
@@ -27,6 +30,7 @@ public class TurretControl : MonoBehaviour {
 	void Start () {
 		barrel = (GameObject) GameObject.FindWithTag ("TurretBarrel");
 		tBase = (GameObject) GameObject.FindWithTag ("Turret");
+		LookAt2D (barrel);
 	}
 
 	// Update is called once per frame
@@ -35,9 +39,9 @@ public class TurretControl : MonoBehaviour {
 		distance = Vector3.Distance (target.position, tBase.transform.position);
 		if (distance <= shootRadius) {
 			Attack ();
-			shoot = true;
 		}
 	}
+
 	//LookAt script to oriente barrel
 	void LookAt2D(GameObject a){
 		Vector3 aDir = a.transform.position;
@@ -51,10 +55,10 @@ public class TurretControl : MonoBehaviour {
 	{
 		coolDown -= Time.deltaTime;
 		if (coolDown <= 0) {
-
-			Vector2 direction = target.position - barrel.transform.position;
+			direction = target.position - barrel.transform.position;
 			direction.Normalize ();
-
+			if (direction.y < 0)
+				direction.Set (direction.x, 0);
 			GameObject bulletClone;
 			bulletClone = Instantiate (bullet, shootPoint.position, shootPoint.rotation) as GameObject;
 			bulletClone.GetComponent<Rigidbody2D>().velocity =  direction * bulletSpeed;
