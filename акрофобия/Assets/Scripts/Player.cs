@@ -49,7 +49,7 @@ public class Player : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-		mainCamera.transform.position = new Vector3(Limit(transform.position.x, -100, 3.4), Limit(transform.position.y, -2.5, 1.8),-5);//moving cam to follow player
+		mainCamera.transform.position = new Vector3(Limit(transform.position.x, -1.3, 3.4), Limit(transform.position.y, -2.5, 1.8),-5);//moving cam to follow player
         anim.SetBool("Grounded", grounded);
 		anim.SetBool ("Jumping", jumping);
         anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.x));
